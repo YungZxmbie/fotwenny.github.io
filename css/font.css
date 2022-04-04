@@ -1,0 +1,18 @@
+
+/*font-family: Rowdies;*/
+@font-face {
+    font-family: Rowdies;
+    src: url('../font/Rowdies/Rowdies-Regular.ttf');
+}
+
+/*font-family: Syne_Tactile;*/
+@font-face {
+    font-family: Syne_Tactile;
+    src: url('../font/Syne_Tactile/SyneTactile-Regular.ttf');
+}
+
+/*font-family: Varela_Round;*/
+@font-face {
+    font-family: Varela_Round;
+    src: url('../font/Varela_Round/VarelaRound-Regular.ttf');
+}
